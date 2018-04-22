@@ -1,0 +1,5 @@
+c:\users\khan\documents\visual studio 2013\Projects\BP\BP\bin\Debug\BP.exe.config
+c:\users\khan\documents\visual studio 2013\Projects\BP\BP\bin\Debug\BP.exe
+c:\users\khan\documents\visual studio 2013\Projects\BP\BP\bin\Debug\BP.pdb
+c:\users\khan\documents\visual studio 2013\Projects\BP\BP\obj\Debug\BP.exe
+c:\users\khan\documents\visual studio 2013\Projects\BP\BP\obj\Debug\BP.pdb
